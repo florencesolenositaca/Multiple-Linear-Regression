@@ -128,6 +128,3 @@ Although the Boston Housing dataset is widely used for educational purposes, its
 
 *Academic Project | Regression Analysis & Predictive Analytics | 2026*
 
-
-
-*Understanding housing values through statistical analysis for informed urban planning and decision-making.*
